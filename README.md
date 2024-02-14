@@ -31,4 +31,5 @@ WHEN I deploy to Render
 THEN I should have proper build scripts for a webpack application
 # Mock-Up
 The following animation demonstrates the application functionality:
+![alt text](image.png)
 
